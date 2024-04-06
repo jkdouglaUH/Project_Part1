@@ -10,6 +10,7 @@ class Student:
     self.disciplined = disciplined
     self.gpa = None
     self.graddate = None
+    
 
 def read_csv(file_path):
  data=[]
